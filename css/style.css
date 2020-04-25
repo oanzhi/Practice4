@@ -279,7 +279,7 @@ ul.menu li:hover ul.submenu {display: block;}
 	width: ;
 	height: ;
 */
-	width: 335px;
+	width: 370px;
 	height: 360px;
 	float: left;
 	margin: 0 30px 30px 0;
@@ -314,6 +314,7 @@ ul.menu li:hover ul.submenu {display: block;}
 	font-size: 18px;
 	color: #000;
 	font-weight: bold;
+	text-align:justify;
 	
 	margin-bottom: 10px;
 	display: block;
